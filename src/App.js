@@ -1,20 +1,13 @@
-import React from "react";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Navbar from "./components/Navbar";
-import Projects from "./components/Projects";
-import Skills from "./components/Skills";
-import Testimonials from "./components/Testimonials";
+import Navbar from './components/Navbar';
+import About from './components/About';
 
-export default function App() {
+function App() {
   return (
-    <main className="site_wrapper">
-      <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <Testimonials />
-      <Contact />
-    </main>
+   <>
+    <Navbar />
+    <About />
+</>
   );
 }
+
+export default App;

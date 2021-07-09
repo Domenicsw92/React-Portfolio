@@ -1,5 +1,9 @@
-export default function Navbar() {
-    <div class="jumbotron" id="home">
+import React from "react";
+
+function Navbar() {
+  return (
+   <>
+     <div class="jumbotron" id="home">
     <nav class="navbar navbar-light bg-light ">
         <h4 class="text-center header-text">Domenic Wilhelm</h4>
         <div class=" text-center">
@@ -53,4 +57,8 @@ export default function Navbar() {
         </div>
     </div>
 </div>
+   </>
+  );
 }
+
+export default Navbar;
