@@ -29,7 +29,7 @@ function Navbar() {
                 </svg>
 
             </a>
-            <a class="mx" href="Assets/Domenic Wilhelm Resume...pdf" target="_blank">
+            <a class="mx" href="Domenic Wilhelm Resume...pdf" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                     class="bi bi-file-person-fill" viewBox="0 0 16 16">
                     <path

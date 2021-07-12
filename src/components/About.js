@@ -7,7 +7,7 @@ function About() {
                 <div id="About-me" class="container">
                     <div class="row align-items-end">
                         <div class="col-12 col-md-6">
-                            <img class='Avatar rounded-circle img-fluid ' src="images/Profilepic2.JPG"
+                            <img class='Avatar rounded-circle img-fluid ' src="/public/images/Profilepic2.JPG"
                                 alt=" avatar placeholder" />
                         </div>
 

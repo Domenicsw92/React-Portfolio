@@ -12,7 +12,7 @@ function Projects() {
                         <h3 class=" col-12 text-center">Projects</h3>
                         <div class="card d-flex card-border project"  >
                             <a href="https://domenicsw92.github.io/Have-You-Heard-Of/" target="_blank" rel="noreferrer">
-                                <img class="d-block w-100" src="images/heard of_ demo.gif"
+                                <img class="d-block w-100" src="/public/images/heard of_ demo.gif"
                                     alt="First slide"></img>
                             </a>
                             <div class="card-body">
@@ -24,7 +24,7 @@ function Projects() {
 
                         <div class="card d-flex card-border project">
                             <a href="https://fierce-crag-87332.herokuapp.com/" target="_blank" rel="noreferrer">
-                                <img class="d-block w-100" src="images/project2.png  " alt="First slide"></img>
+                                <img class="d-block w-100" src="/public/images/project2.png  " alt="First slide"></img>
                             </a>
                             <div class="card-body">
                                 <h5 class="text-center">Ain't Your Mama's Cooking</h5>
@@ -58,22 +58,22 @@ function Projects() {
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
                                     <a href="https://github.com/Domenicsw92/Employee-Tracker" target="_blank" rel="noreferrer">
-                                        <img class="d-block w-100" src="images/tracker.gif" alt="First slide"></img>
+                                        <img class="d-block w-100" src="/public/images/tracker.gif" alt="First slide"></img>
                                     </a>
                                 </div>
                                 <div class="carousel-item">
                                     <a href="https://desolate-sands-50853.herokuapp.com/" target="_blank" rel="noreferrer">
-                                        <img class="d-block w-100" src="images/noteDemo.gif" alt="Second slide"></img>
+                                        <img class="d-block w-100" src="/public/images/noteDemo.gif" alt="Second slide"></img>
                                     </a>
                                 </div>
                                 <div class="carousel-item">
                                     <a href="https://domenicsw92.github.io/Ask-Oly/" target="_blank" rel="noreferrer">
-                                        <img class="d-block w-100" src="images/Weatherdash.gif" alt="Third slide"></img>
+                                        <img class="d-block w-100" src="/public/images/Weatherdash.gif" alt="Third slide"></img>
                                     </a>
                                 </div>
                                 <div class="carousel-item">
                                     <a href="https://domenicsw92.github.io/Work-Day-Planner/" target="_blank" rel="noreferrer">
-                                        <img class="d-block w-100" src="images/dayplanner.gif" alt="Fourth slide"></img>
+                                        <img class="d-block w-100" src="/public/images/dayplanner.gif" alt="Fourth slide"></img>
                                     </a>
                                 </div>
                             </div>
